@@ -1,7 +1,7 @@
 # GENERATION-AND-DETECTION-OF-FM---USING---SCILAB---T1---M4---ODD
 # FREQUENCY MODULATION AND DEMODULATION
 
-## AIM
+## AIM 
 
 To write a program for Frequency Modulation and Demodulation using SCILAB and to observe and measure the frequency deviation and the modulation index of FM.
 
